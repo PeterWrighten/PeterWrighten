@@ -5,7 +5,10 @@
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PeterWr31819086?label=twitter&style=social" />
   </a>
   <a href="http://t.me/piedpeter">
-    <img alt="Twitter Follow" src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white" />
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white" />
+  </a>
+  <a href="http://t.me/piedpeter">
+    <img alt="Discord" src="https://dcbadge.vercel.app/api/shield/855418354609291324?style=social" />
   </a>
   <a href="https://github.com/PeterWrighten">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/PeterWrighten?style=social" />
