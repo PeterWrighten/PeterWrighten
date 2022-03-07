@@ -1,5 +1,34 @@
+# **Hey, There is Peter**  👋
+[![Feynman](https://raw.githubusercontent.com/PeterWrighten/MarkDown_Photo/main/feynman.png)](https://peterwrighten.github.io/)
+<p align="left">
+  <a href="http://twitter.com/PeterWr31819086">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PeterWr31819086?label=twitter&style=social" />
+  </a>
+  <a href="http://t.me/piedpeter">
+    <img alt="Twitter Follow" src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/PeterWrighten">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/PeterWrighten?style=social" />
+  </a>
+  <a href="https://github.com/PeterWrighten">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/PeterWrighten?style=social">
+  </a>
+  <a href="https://www.reddit.com/user/Peter-Wright0107">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Peter-Wright0107?label=reddit&style=social" />
+  </a>
+  <a href="https://stackoverflow.com/users/15865487/peterwrght">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/15865487?label=StackOverflow&logo=stack-overflow&style=social" />
+  </a>
+</p>
 
-[![](https://raw.githubusercontent.com/PeterWrighten/PeterWrighten/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/PeterWrighten/PeterWrighten/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PeterWrighten/PeterWrighten/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/PeterWrighten/PeterWrighten/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PeterWrighten/PeterWrighten/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/dracula/0-profile-details.svg)](https://peterwrighten.github.io/)
+[![](./profile-summary-card-output/dracula/1-repos-per-language.svg)](https://peterwrighten.github.io/) 
+[![](./profile-summary-card-output/dracula/2-most-commit-language.svg)](https://peterwrighten.github.io/)
+[![](./profile-summary-card-output/dracula/3-stats.svg)](https://peterwrighten.github.io/)
+[![](./profile-summary-card-output/dracula/4-productive-time.svg)](https://peterwrighten.github.io/)
+
+<p align="left">
+ Visitor count<br>
+ <img src="https://profile-counter.glitch.me/PeterWrighten/count.svg" />
+</p>
 
