@@ -32,6 +32,8 @@
 
 <p align="left">
  Visitor count<br>
- <img src="https://profile-counter.glitch.me/PeterWrighten/count.svg" />
+ <a href="https://peterwrighten.github.io/blog/">
+    <img src="https://profile-counter.glitch.me/PeterWrighten/count.svg" />
+ </a>
 </p>
 
