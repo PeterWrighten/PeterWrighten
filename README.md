@@ -1,5 +1,5 @@
 # **Hey, There is Peter**  👋
-[![Feynman](https://raw.githubusercontent.com/PeterWrighten/MarkDown_Photo/main/feynman.png)](https://peterwrighten.github.io/)
+[![Feynman](https://raw.githubusercontent.com/PeterWrighten/MarkDown_Photo/main/feynman.png)](https://peterwrighten.github.io/blog/)
 <p align="left">
   <a href="http://twitter.com/PeterWr31819086">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PeterWr31819086?label=twitter&style=social" />
