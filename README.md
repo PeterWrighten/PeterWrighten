@@ -19,9 +19,6 @@
   <a href="https://www.reddit.com/user/Peter-Wright0107">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Peter-Wright0107?label=reddit&style=social" />
   </a>
-  <a href="https://stackoverflow.com/users/15865487/peterwrght">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/15865487?label=StackOverflow&logo=stack-overflow&style=social" />
-  </a>
 </p>
 
 [![](./profile-summary-card-output/dracula/0-profile-details.svg)](https://peterwrighten.github.io/)
