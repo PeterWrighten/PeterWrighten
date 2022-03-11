@@ -2,7 +2,7 @@
 [![Feynman](https://raw.githubusercontent.com/PeterWrighten/MarkDown_Photo/main/feynman.png)](https://peterwrighten.github.io/blog/)
 <p align="left">
   <a href="http://twitter.com/PeterWr31819086">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PeterWr31819086?label=twitter&style=social" />
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/url/https/twitter.com/PeterWr31819086.svg?style=social&label=Follow%20%40PeterW" />
   </a>
   <a href="http://t.me/piedpeter">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white" />
