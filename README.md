@@ -11,7 +11,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/PeterWrighten?style=social" />
   </a>
   <a href="https://github.com/PeterWrighten">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/PeterWrighten?style=social">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/PeterWrighten?style=social" />
   </a>
   <a href="https://discord.gg/zzerAVKE">
     <img alt="Discord" src="https://dcbadge.vercel.app/api/shield/855418354609291324?style=social" />
