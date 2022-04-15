@@ -13,7 +13,7 @@
   <a href="https://github.com/PeterWrighten">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/PeterWrighten?style=social" />
   </a>
-  <a href="https://discord.gg/zzerAVKE">
+  <a href="https://discord.gg/gGTAHPk49T">
     <img alt="Discord" src="https://dcbadge.vercel.app/api/shield/855418354609291324?style=social" />
   </a>
   <a href="https://www.reddit.com/user/Peter-Wright0107">
