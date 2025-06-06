@@ -15,19 +15,6 @@ Hey, I'm Peter, human engineer on earth.
 
 
 
-```bash
-🦀 rust                
-  ████████████████████████████████████ 100%
-⚡ solana               
-  ██████████████████████████████████   95%
-🤖 llm/rl             
-  ████████████████████████████████     90%
-🔧 distributed-systems 
-  ████████████████████████████████     90%
-📊 algorithms          
-  ████████████████████████            75%
-```
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PeterWrighten&theme=dark&hide_border=true&background=0D1117&stroke=9945FF&ring=14F195&fire=FF6B6B&currStreakLabel=14F195&currStreakNum=9945FF)](https://git.io/streak-stats)
 
 <!--START_SECTION:activity-->
