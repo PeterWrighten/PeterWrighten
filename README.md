@@ -12,16 +12,3 @@ Hey, I'm Peter, human engineer on earth.
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/gGTAHPk49T)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:self@peterwrighten.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://peterwrighten.github.io/blog/)
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PeterWrighten&theme=dark&hide_border=true&background=0D1117&stroke=9945FF&ring=14F195&fire=FF6B6B&currStreakLabel=14F195&currStreakNum=9945FF)](https://git.io/streak-stats)
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-![Profile Views](https://komarev.com/ghpvc/?username=PeterWrighten&color=9945FF&style=flat-square&label=visitors)
-
-</div>
-
-
